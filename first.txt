@@ -1,4 +1,7 @@
-Git‚Ì—ûK
-Šî–{“IŠwK
+ï»¿Gitã®ç·´ç¿’
+åŸºæœ¬çš„å­¦ç¿’
 git add
 git commit
+æ–°è¦ã¨å¤‰æ›´
+git status
+git diff
